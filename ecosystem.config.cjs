@@ -1,0 +1,1 @@
+module.exports = {apps:[{name:"tgbot",script:"python3",args:"/home/user/tgbot/main.py",cwd:"/home/user/tgbot",watch:false,autorestart:true,max_restarts:10,env:{PYTHONUNBUFFERED:"1",PYTHONPATH:"/home/user/tgbot"}}]}
